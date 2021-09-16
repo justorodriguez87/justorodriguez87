@@ -1,5 +1,3 @@
-### 👋
-
 <!--
 **justorodriguez87/justorodriguez87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ¡Hola! Soy Justo J. Rodríguez 👋
+
+## Puedes encontrarme en:
+
+- Web personal [justorodriguez.com](http://justorodriguez.com)
+- [LinkedIn](https://www.linkedin.com/in/justorodriguez/)
