@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola! Soy Justo J. Rodríguez 👋
+# Bienvenido a mi GitHub 👋
+
+### Mi nombre es Justo J. Rodríguez García, me dedico a la ciberseguridad, el hacking ético y el desarrollo de aplicaciones "full stack", actualmente estoy preparándome los certificados CEH y OSCPv ...
 
 ## Puedes encontrarme en:
 
