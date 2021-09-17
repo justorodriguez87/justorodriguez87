@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Bienvenido a mi GitHub 👋
 
-- Mi nombre es Justo J. Rodríguez García, me dedico a la ciberseguridad, el hacking ético, y seguridad ofensiva también desarrollo de aplicaciones "full stack", actualmente estoy preparándome los certificados CEH y OSCP...
+- Mi nombre es Justo J. Rodríguez García, me dedico a la ciberseguridad, el hacking ético, y seguridad ofensiva también desarrollo aplicaciones, actualmente estoy preparándome los certificados CEH y OSCP...
 
 ## Puedes encontrarme en:
 
