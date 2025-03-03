@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 -->
 # Bienvenido a mi GitHub 👋
 
-- Soy Justo J. (aka th3king / th3Wh1teK1nG), me dedico al desarrollo web y a la ciberseguridad, el hacking ético, y seguridad ofensiva, actualmente estoy preparándome los certificados CEH, eJPT y OSCP...
+- Soy Justo J. (aka th3king / th3Wh1teK1nG), me dedico al desarrollo web y a la ciberseguridad, el hacking ético, y seguridad ofensiva.
 
 ## Puedes encontrarme en:
 
 - [justorodriguez.com](http://justorodriguez.com)
-<a href="https://www.linkedin.com/in/justorodriguez/">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />
-</a>
+- [justo.dev](http://justo.dev)
