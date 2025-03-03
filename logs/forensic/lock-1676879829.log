@@ -1,0 +1,21 @@
+Encuentre nuestro resultado de análisis abajo.
+Para hacer su sitio web funcional otra vez usted necesita cambiar permisos del archivo por lo menos a 604 después de limpiar.
+
+Los siguientes archivos han sido subidos probablemente por hackers.
+Por favor cheque estos archivos y elimínelos si es necesario.
+~/clickandbuilds/CTF/wp-content/plugins/index.php
+
+Los siguientes archivos han sido probablemente modificados por hackers.
+Cheque estos archivos y vuelva a cargarlos usando una copia de seguridad limpia.
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/googlefonts/src/.1676879998
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/module-field-dependencies/src/Field.Dependencies.php
+~/clickandbuilds/CTF/wp-content/plugins/index.php
+~/clickandbuilds/CTF/wp-content/plugins/gold-addons-for-elementor/includes/vendor/updater/Puc/v4p11/Plugin/Package.php
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/googlefonts/src/string.php
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/control-generic/src/Field/duplicate.php
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/module-panels/src/auth.php
+~/clickandbuilds/CTF/wp-content/themes/agama/framework/admin/kirki/packages/kirki-framework/module-sections/src/contact_form.php
+~/clickandbuilds/CTF/wp-admin/includes/class-wp-plugin-install-list-table.php
+~/clickandbuilds/CTF/wp-admin/includes/.1676879824
+~/clickandbuilds/CTF/wp-includes/blocks/navigation.php
+

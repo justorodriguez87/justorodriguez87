@@ -1,0 +1,338 @@
+Feb 24 23:08:09 10.71.57.0 u105481256 Connection from 10.71.57.0 port 17518 on 82.165.88.79 port 22 rdomain ""
+Feb 24 23:08:09 10.71.57.0 u105481256 Accepted password for u105481256 from 10.71.57.0 port 17518 ssh2
+Feb 24 23:08:09 10.71.57.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.57.0 port 17518 id 0
+Feb 24 23:08:09 10.71.57.0 u105481256 session opened for local user u105481256 from [10.71.57.0]
+Feb 24 23:08:47 10.71.56.0 u105481256 Connection from 10.71.56.0 port 40304 on 82.165.88.79 port 22 rdomain ""
+Feb 24 23:08:48 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 40304 ssh2
+Feb 24 23:08:48 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 40304 id 0
+Feb 24 23:08:48 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 24 23:08:50 10.71.56.0 u105481256 open "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:08:50 10.71.56.0 u105481256 close "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" bytes read 0 written 7838466
+Feb 24 23:08:50 10.71.56.0 u105481256 [10.71.56.0|put|0|7838466|0|0|0|2f6173736574732f646f63732f63765f6a7573746f5f6a6f7375655f726f6472696775657a5f6761726369612e706466|]
+Feb 24 23:09:19 10.71.56.0 u105481256 open "/assets/docs/Certificado_Herramientas_para_el_desarrollo_de_aplicaciones_con_Blockchain_(del_10102024_al_13112024)-Certificado_1375.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:20 10.71.56.0 u105481256 close "/assets/docs/Certificado_Herramientas_para_el_desarrollo_de_aplicaciones_con_Blockchain_(del_10102024_al_13112024)-Certificado_1375.pdf" bytes read 0 written 1115577
+Feb 24 23:09:20 10.71.56.0 u105481256 [10.71.56.0|put|1|1115577|0|0|0|2f6173736574732f646f63732f436572746966696361646f5f48657272616d69656e7461735f706172615f656c5f6465736172726f6c6c6f5f64655f61706c69636163696f6e65735f636f6e5f426c6f636b636861696e5f2864656c5f31303130323032345f616c5f3133313132303234292d436572746966696361646f5f313337352e706466|]
+Feb 24 23:09:20 10.71.56.0 u105481256 open "/assets/docs/Certificado_Programaci\303\263n_de_Contratos_Inteligentes___del_14112024_al_19122024-Certificado_3509.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:20 10.71.56.0 u105481256 close "/assets/docs/Certificado_Programaci\303\263n_de_Contratos_Inteligentes___del_14112024_al_19122024-Certificado_3509.pdf" bytes read 0 written 683900
+Feb 24 23:09:20 10.71.56.0 u105481256 [10.71.56.0|put|0|683900|0|0|0|2f6173736574732f646f63732f436572746966696361646f5f50726f6772616d616369c3b36e5f64655f436f6e747261746f735f496e74656c6967656e7465735f5f5f64656c5f31343131323032345f616c5f31393132323032342d436572746966696361646f5f333530392e706466|]
+Feb 24 23:09:20 10.71.57.0 u105481256 Connection from 10.71.57.0 port 18046 on 82.165.88.79 port 22 rdomain ""
+Feb 24 23:09:20 10.71.57.0 u105481256 Accepted password for u105481256 from 10.71.57.0 port 18046 ssh2
+Feb 24 23:09:20 10.71.56.0 u105481256 open "/assets/docs/Curr\303\255culum Desarrollo Web.png" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:20 10.71.57.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.57.0 port 18046 id 0
+Feb 24 23:09:20 10.71.57.0 u105481256 session opened for local user u105481256 from [10.71.57.0]
+Feb 24 23:09:20 10.71.56.0 u105481256 close "/assets/docs/Curr\303\255culum Desarrollo Web.png" bytes read 0 written 3011004
+Feb 24 23:09:20 10.71.56.0 u105481256 [10.71.56.0|put|0|3011004|0|0|0|2f6173736574732f646f63732f43757272c3ad63756c756d204465736172726f6c6c6f205765622e706e67|]
+Feb 24 23:09:21 10.71.57.0 u105481256 open "/assets/docs/CERTIFICADO_Modelizaci\303\263n_de_algoritmos_para_Inteligencia_Artificial_basado_en_aprendizaje_autom\303\241tico_(del_27112024_al_16012025)-Certificado_3883.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:21 10.71.57.0 u105481256 close "/assets/docs/CERTIFICADO_Modelizaci\303\263n_de_algoritmos_para_Inteligencia_Artificial_basado_en_aprendizaje_autom\303\241tico_(del_27112024_al_16012025)-Certificado_3883.pdf" bytes read 0 written 1403735
+Feb 24 23:09:21 10.71.57.0 u105481256 [10.71.57.0|put|0|1403735|0|0|0|2f6173736574732f646f63732f434552544946494341444f5f4d6f64656c697a616369c3b36e5f64655f616c676f7269746d6f735f706172615f496e74656c6967656e6369615f4172746966696369616c5f62617361646f5f656e5f617072656e64697a616a655f6175746f6dc3a17469636f5f2864656c5f32373131323032345f616c5f3136303132303235292d436572746966696361646f5f333838332e706466|]
+Feb 24 23:09:21 10.71.57.0 u105481256 open "/assets/docs/Justo Josu\303\251 Rodriguez Certificado notas MASTER.doc" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:21 10.71.57.0 u105481256 close "/assets/docs/Justo Josu\303\251 Rodriguez Certificado notas MASTER.doc" bytes read 0 written 60416
+Feb 24 23:09:21 10.71.57.0 u105481256 [10.71.57.0|put|0|60416|0|0|0|2f6173736574732f646f63732f4a7573746f204a6f7375c3a920526f6472696775657a20436572746966696361646f206e6f746173204d41535445522e646f63|]
+Feb 24 23:09:22 10.71.56.0 u105481256 open "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" flags WRITE,CREATE,TRUNCATE mode 0666
+Feb 24 23:09:22 10.71.56.0 u105481256 close "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" bytes read 0 written 7838466
+Feb 24 23:09:22 10.71.56.0 u105481256 [10.71.56.0|put|0|7838466|0|0|0|2f6173736574732f646f63732f63765f6a7573746f5f6a6f7375655f726f6472696775657a5f6761726369612e706466|]
+Feb 24 23:09:33 10.71.57.0 u105481256 session closed for local user u105481256 from [10.71.57.0]
+Feb 24 23:09:33 10.71.57.0 u105481256 Connection closed by 10.71.57.0 port 18046
+Feb 24 23:09:33 10.71.56.0 u105481256 Connection closed by 10.71.56.0 port 40304
+Feb 24 23:09:33 10.71.56.0 u105481256 session closed for local user u105481256 from [10.71.56.0]
+Feb 24 23:09:33 10.71.57.0 u105481256 Connection closed by 10.71.57.0 port 17518
+Feb 24 23:09:33 10.71.57.0 u105481256 session closed for local user u105481256 from [10.71.57.0]
+Feb 26 01:00:19 10.71.56.0 u105481256 Connection from 10.71.56.0 port 54474 on 82.165.88.79 port 22 rdomain ""
+Feb 26 01:00:19 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 54474 ssh2
+Feb 26 01:00:19 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 54474 id 0
+Feb 26 01:00:19 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:31 10.71.56.0 u105481256 Connection from 10.71.56.0 port 21894 on 82.165.88.79 port 22 rdomain ""
+Feb 26 01:21:31 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 21894 ssh2
+Feb 26 01:21:31 10.71.56.0 u105481256 Connection from 10.71.56.0 port 21896 on 82.165.88.79 port 22 rdomain ""
+Feb 26 01:21:31 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 21896 ssh2
+Feb 26 01:21:31 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 21894 id 0
+Feb 26 01:21:31 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:31 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 21896 id 0
+Feb 26 01:21:31 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:31 10.71.56.0 u105481256 open "/.htaccess" flags READ mode 0666
+Feb 26 01:21:32 10.71.56.0 u105481256 close "/.htaccess" bytes read 352 written 0
+Feb 26 01:21:32 10.71.56.0 u105481256 [10.71.56.0|get|1|352|0|0|0|2f2e6874616363657373|]
+Feb 26 01:21:32 10.71.56.0 u105481256 open "/.bash_history" flags READ mode 0666
+Feb 26 01:21:32 10.71.56.0 u105481256 open "/index.html" flags READ mode 0666
+Feb 26 01:21:32 10.71.56.0 u105481256 close "/.bash_history" bytes read 3 written 0
+Feb 26 01:21:32 10.71.56.0 u105481256 [10.71.56.0|get|0|3|0|0|0|2f2e626173685f686973746f7279|]
+Feb 26 01:21:32 10.71.56.0 u105481256 close "/index.html" bytes read 26487 written 0
+Feb 26 01:21:32 10.71.56.0 u105481256 [10.71.56.0|get|0|26487|0|0|0|2f696e6465782e68746d6c|]
+Feb 26 01:21:32 10.71.56.0 u105481256 open "/recaptchalib.php" flags READ mode 0666
+Feb 26 01:21:32 10.71.56.0 u105481256 open "/sendemail.php" flags READ mode 0666
+Feb 26 01:21:32 10.71.56.0 u105481256 close "/recaptchalib.php" bytes read 4712 written 0
+Feb 26 01:21:32 10.71.56.0 u105481256 [10.71.56.0|get|0|4712|0|0|0|2f7265636170746368616c69622e706870|]
+Feb 26 01:21:32 10.71.56.0 u105481256 close "/sendemail.php" bytes read 3790 written 0
+Feb 26 01:21:32 10.71.56.0 u105481256 [10.71.56.0|get|0|3790|0|0|0|2f73656e64656d61696c2e706870|]
+Feb 26 01:21:32 10.71.56.0 u105481256 session closed for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:32 10.71.56.0 u105481256 Connection closed by 10.71.56.0 port 21896
+Feb 26 01:21:32 10.71.56.0 u105481256 Connection closed by 10.71.56.0 port 21894
+Feb 26 01:21:32 10.71.56.0 u105481256 session closed for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:33 10.71.56.0 u105481256 Connection from 10.71.56.0 port 17092 on 82.165.88.79 port 22 rdomain ""
+Feb 26 01:21:33 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 17092 ssh2
+Feb 26 01:21:33 10.71.56.0 u105481256 Connection from 10.71.56.0 port 21936 on 82.165.88.79 port 22 rdomain ""
+Feb 26 01:21:33 10.71.56.0 u105481256 Accepted password for u105481256 from 10.71.56.0 port 21936 ssh2
+Feb 26 01:21:33 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 17092 id 0
+Feb 26 01:21:33 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:33 10.71.56.0 u105481256 Starting session: subsystem 'sftp' for u105481256 from 10.71.56.0 port 21936 id 0
+Feb 26 01:21:33 10.71.56.0 u105481256 session opened for local user u105481256 from [10.71.56.0]
+Feb 26 01:21:33 10.71.56.0 u105481256 open "/assets/css/style.css" flags READ mode 0666
+Feb 26 01:21:33 10.71.56.0 u105481256 open "/assets/css/responsive.css" flags READ mode 0666
+Feb 26 01:21:34 10.71.56.0 u105481256 close "/assets/css/responsive.css" bytes read 5619 written 0
+Feb 26 01:21:34 10.71.56.0 u105481256 [10.71.56.0|get|1|5619|0|0|0|2f6173736574732f6373732f726573706f6e736976652e637373|]
+Feb 26 01:21:34 10.71.56.0 u105481256 close "/assets/css/style.css" bytes read 32530 written 0
+Feb 26 01:21:34 10.71.56.0 u105481256 [10.71.56.0|get|1|32530|0|0|0|2f6173736574732f6373732f7374796c652e637373|]
+Feb 26 01:21:34 10.71.56.0 u105481256 open "/assets/css/magnific-popup.css" flags READ mode 0666
+Feb 26 01:21:34 10.71.56.0 u105481256 open "/assets/css/animate.css" flags READ mode 0666
+Feb 26 01:21:34 10.71.56.0 u105481256 close "/assets/css/magnific-popup.css" bytes read 7789 written 0
+Feb 26 01:21:34 10.71.56.0 u105481256 [10.71.56.0|get|0|7789|0|0|0|2f6173736574732f6373732f6d61676e696669632d706f7075702e637373|]
+Feb 26 01:21:34 10.71.56.0 u105481256 close "/assets/css/animate.css" bytes read 72922 written 0
+Feb 26 01:21:34 10.71.56.0 u105481256 [10.71.56.0|get|0|72922|0|0|0|2f6173736574732f6373732f616e696d6174652e637373|]
+Feb 26 01:21:34 10.71.56.0 u105481256 open "/assets/css/font-awesome.min.css" flags READ mode 0666
+Feb 26 01:21:34 10.71.56.0 u105481256 close "/assets/css/font-awesome.min.css" bytes read 22044 written 0
+Feb 26 01:21:34 10.71.56.0 u105481256 [10.71.56.0|get|0|22044|0|0|0|2f6173736574732f6373732f666f6e742d617765736f6d652e6d696e2e637373|]
+Feb 26 01:21:34 10.71.56.0 u105481256 open "/assets/docs/Justo Josu\303\251 Rodriguez Certificado notas MASTER.doc" flags READ mode 0666
+Feb 26 01:21:35 10.71.56.0 u105481256 close "/assets/docs/Justo Josu\303\251 Rodriguez Certificado notas MASTER.doc" bytes read 60416 written 0
+Feb 26 01:21:35 10.71.56.0 u105481256 [10.71.56.0|get|1|60416|0|0|0|2f6173736574732f646f63732f4a7573746f204a6f7375c3a920526f6472696775657a20436572746966696361646f206e6f746173204d41535445522e646f63|]
+Feb 26 01:21:35 10.71.56.0 u105481256 open "/assets/docs/CERTIFICADO_Modelizaci\303\263n_de_algoritmos_para_Inteligencia_Artificial_basado_en_aprendizaje_autom\303\241tico_(del_27112024_al_16012025)-Certificado_3883.pdf" flags READ mode 0666
+Feb 26 01:21:35 10.71.56.0 u105481256 open "/assets/docs/Curr\303\255culum Desarrollo Web.png" flags READ mode 0666
+Feb 26 01:21:35 10.71.56.0 u105481256 close "/assets/docs/CERTIFICADO_Modelizaci\303\263n_de_algoritmos_para_Inteligencia_Artificial_basado_en_aprendizaje_autom\303\241tico_(del_27112024_al_16012025)-Certificado_3883.pdf" bytes read 1403735 written 0
+Feb 26 01:21:35 10.71.56.0 u105481256 [10.71.56.0|get|0|1403735|0|0|0|2f6173736574732f646f63732f434552544946494341444f5f4d6f64656c697a616369c3b36e5f64655f616c676f7269746d6f735f706172615f496e74656c6967656e6369615f4172746966696369616c5f62617361646f5f656e5f617072656e64697a616a655f6175746f6dc3a17469636f5f2864656c5f32373131323032345f616c5f3136303132303235292d436572746966696361646f5f333838332e706466|]
+Feb 26 01:21:35 10.71.56.0 u105481256 close "/assets/docs/Curr\303\255culum Desarrollo Web.png" bytes read 3011004 written 0
+Feb 26 01:21:35 10.71.56.0 u105481256 [10.71.56.0|get|0|3011004|0|0|0|2f6173736574732f646f63732f43757272c3ad63756c756d204465736172726f6c6c6f205765622e706e67|]
+Feb 26 01:21:35 10.71.56.0 u105481256 open "/assets/docs/Certificado_Programaci\303\263n_de_Contratos_Inteligentes___del_14112024_al_19122024-Certificado_3509.pdf" flags READ mode 0666
+Feb 26 01:21:35 10.71.56.0 u105481256 open "/assets/docs/Certificado_Herramientas_para_el_desarrollo_de_aplicaciones_con_Blockchain_(del_10102024_al_13112024)-Certificado_1375.pdf" flags READ mode 0666
+Feb 26 01:21:36 10.71.56.0 u105481256 close "/assets/docs/Certificado_Programaci\303\263n_de_Contratos_Inteligentes___del_14112024_al_19122024-Certificado_3509.pdf" bytes read 683900 written 0
+Feb 26 01:21:36 10.71.56.0 u105481256 [10.71.56.0|get|1|683900|0|0|0|2f6173736574732f646f63732f436572746966696361646f5f50726f6772616d616369c3b36e5f64655f436f6e747261746f735f496e74656c6967656e7465735f5f5f64656c5f31343131323032345f616c5f31393132323032342d436572746966696361646f5f333530392e706466|]
+Feb 26 01:21:36 10.71.56.0 u105481256 close "/assets/docs/Certificado_Herramientas_para_el_desarrollo_de_aplicaciones_con_Blockchain_(del_10102024_al_13112024)-Certificado_1375.pdf" bytes read 1115577 written 0
+Feb 26 01:21:36 10.71.56.0 u105481256 [10.71.56.0|get|1|1115577|0|0|0|2f6173736574732f646f63732f436572746966696361646f5f48657272616d69656e7461735f706172615f656c5f6465736172726f6c6c6f5f64655f61706c69636163696f6e65735f636f6e5f426c6f636b636861696e5f2864656c5f31303130323032345f616c5f3133313132303234292d436572746966696361646f5f313337352e706466|]
+Feb 26 01:21:36 10.71.56.0 u105481256 open "/assets/docs/expedicionTitulo_DAW_JustoJosueRodriguezGarcia.jpeg" flags READ mode 0666
+Feb 26 01:21:36 10.71.56.0 u105481256 open "/assets/docs/Justo Josu\303\251 Rodriguez - Certificado notas master.doc" flags READ mode 0666
+Feb 26 01:21:36 10.71.56.0 u105481256 close "/assets/docs/Justo Josu\303\251 Rodriguez - Certificado notas master.doc" bytes read 60416 written 0
+Feb 26 01:21:36 10.71.56.0 u105481256 [10.71.56.0|get|0|60416|0|0|0|2f6173736574732f646f63732f4a7573746f204a6f7375c3a920526f6472696775657a202d20436572746966696361646f206e6f746173206d61737465722e646f63|]
+Feb 26 01:21:36 10.71.56.0 u105481256 close "/assets/docs/expedicionTitulo_DAW_JustoJosueRodriguezGarcia.jpeg" bytes read 300028 written 0
+Feb 26 01:21:36 10.71.56.0 u105481256 [10.71.56.0|get|0|300028|0|0|0|2f6173736574732f646f63732f65787065646963696f6e546974756c6f5f4441575f4a7573746f4a6f737565526f6472696775657a4761726369612e6a706567|]
+Feb 26 01:21:36 10.71.56.0 u105481256 open "/assets/docs/Titulo Justo Josue Rodriguez MASTER.pdf" flags READ mode 0666
+Feb 26 01:21:36 10.71.56.0 u105481256 open "/assets/docs/TFM_JustoJ_Rodriguez_Garcia.pdf" flags READ mode 0666
+Feb 26 01:21:36 10.71.56.0 u105481256 close "/assets/docs/Titulo Justo Josue Rodriguez MASTER.pdf" bytes read 507909 written 0
+Feb 26 01:21:36 10.71.56.0 u105481256 [10.71.56.0|get|0|507909|0|0|0|2f6173736574732f646f63732f546974756c6f204a7573746f204a6f73756520526f6472696775657a204d41535445522e706466|]
+Feb 26 01:21:37 10.71.56.0 u105481256 open "/assets/docs/TFM_JustoJ_Rodriguez_Garcia.mgr" flags READ mode 0666
+Feb 26 01:21:37 10.71.56.0 u105481256 close "/assets/docs/TFM_JustoJ_Rodriguez_Garcia.pdf" bytes read 19552066 written 0
+Feb 26 01:21:37 10.71.56.0 u105481256 [10.71.56.0|get|1|19552066|0|0|0|2f6173736574732f646f63732f54464d5f4a7573746f4a5f526f6472696775657a5f4761726369612e706466|]
+Feb 26 01:21:37 10.71.56.0 u105481256 close "/assets/docs/TFM_JustoJ_Rodriguez_Garcia.mgr" bytes read 86102 written 0
+Feb 26 01:21:37 10.71.56.0 u105481256 [10.71.56.0|get|0|86102|0|0|0|2f6173736574732f646f63732f54464d5f4a7573746f4a5f526f6472696775657a5f4761726369612e6d6772|]
+Feb 26 01:21:37 10.71.56.0 u105481256 open "/assets/docs/Titulo_dai_JustoJosueRodriguezGarcia.pdf" flags READ mode 0666
+Feb 26 01:21:37 10.71.56.0 u105481256 open "/assets/docs/cert_java.pdf" flags READ mode 0666
+Feb 26 01:21:37 10.71.56.0 u105481256 close "/assets/docs/Titulo_dai_JustoJosueRodriguezGarcia.pdf" bytes read 257410 written 0
+Feb 26 01:21:37 10.71.56.0 u105481256 [10.71.56.0|get|0|257410|0|0|0|2f6173736574732f646f63732f546974756c6f5f6461695f4a7573746f4a6f737565526f6472696775657a4761726369612e706466|]
+Feb 26 01:21:37 10.71.56.0 u105481256 close "/assets/docs/cert_java.pdf" bytes read 213125 written 0
+Feb 26 01:21:37 10.71.56.0 u105481256 [10.71.56.0|get|0|213125|0|0|0|2f6173736574732f646f63732f636572745f6a6176612e706466|]
+Feb 26 01:21:37 10.71.56.0 u105481256 open "/assets/docs/FT ES - Programaci\303\263n con Java Standard.pdf" flags READ mode 0666
+Feb 26 01:21:37 10.71.56.0 u105481256 open "/assets/docs/DiplomaAlumnosegInfor.pdf" flags READ mode 0666
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/FT ES - Programaci\303\263n con Java Standard.pdf" bytes read 212850 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|0|212850|0|0|0|2f6173736574732f646f63732f4654204553202d2050726f6772616d616369c3b36e20636f6e204a617661205374616e646172642e706466|]
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/DiplomaAlumnosegInfor.pdf" bytes read 111316 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|1|111316|0|0|0|2f6173736574732f646f63732f4469706c6f6d61416c756d6e6f736567496e666f722e706466|]
+Feb 26 01:21:38 10.71.56.0 u105481256 open "/assets/docs/iDESWEB_Curso.pdf" flags READ mode 0666
+Feb 26 01:21:38 10.71.56.0 u105481256 open "/assets/docs/Android_Curso.pdf" flags READ mode 0666
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/iDESWEB_Curso.pdf" bytes read 60336 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|0|60336|0|0|0|2f6173736574732f646f63732f694445535745425f437572736f2e706466|]
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/Android_Curso.pdf" bytes read 60263 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|0|60263|0|0|0|2f6173736574732f646f63732f416e64726f69645f437572736f2e706466|]
+Feb 26 01:21:38 10.71.56.0 u105481256 open "/assets/docs/ElFuturodelDinero_Certificado.pdf" flags READ mode 0666
+Feb 26 01:21:38 10.71.56.0 u105481256 open "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" flags READ mode 0666
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/ElFuturodelDinero_Certificado.pdf" bytes read 60307 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|0|60307|0|0|0|2f6173736574732f646f63732f456c46757475726f64656c44696e65726f5f436572746966696361646f2e706466|]
+Feb 26 01:21:38 10.71.56.0 u105481256 close "/assets/docs/cv_justo_josue_rodriguez_garcia.pdf" bytes read 7838466 written 0
+Feb 26 01:21:38 10.71.56.0 u105481256 [10.71.56.0|get|0|7838466|0|0|0|2f6173736574732f646f63732f63765f6a7573746f5f6a6f7375655f726f6472696775657a5f6761726369612e706466|]
+Feb 26 01:21:39 10.71.56.0 u105481256 open "/assets/images/photo-frame - copia.png" flags READ mode 0666
+Feb 26 01:21:39 10.71.56.0 u105481256 open "/assets/images/home2 - copia.jpg" flags READ mode 0666
+Feb 26 01:21:39 10.71.56.0 u105481256 close "/assets/images/photo-frame - copia.png" bytes read 4831 written 0
+Feb 26 01:21:39 10.71.56.0 u105481256 [10.71.56.0|get|0|4831|0|0|0|2f6173736574732f696d616765732f70686f746f2d6672616d65202d20636f7069612e706e67|]
+Feb 26 01:21:39 10.71.56.0 u105481256 open "/assets/images/foto.png" flags READ mode 0666
+Feb 26 01:21:39 10.71.56.0 u105481256 close "/assets/images/home2 - copia.jpg" bytes read 498922 written 0
+Feb 26 01:21:39 10.71.56.0 u105481256 [10.71.56.0|get|0|498922|0|0|0|2f6173736574732f696d616765732f686f6d6532202d20636f7069612e6a7067|]
+Feb 26 01:21:39 10.71.56.0 u105481256 close "/assets/images/foto.png" bytes read 67803 written 0
+Feb 26 01:21:39 10.71.56.0 u105481256 [10.71.56.0|get|0|67803|0|0|0|2f6173736574732f696d616765732f666f746f2e706e67|]
+Feb 26 01:21:39 10.71.56.0 u105481256 open "/assets/images/vcard_justo.png" flags READ mode 0666
+Feb 26 01:21:39 10.71.56.0 u105481256 sent status No such file
+Feb 26 01:21:39 10.71.56.0 u105481256 open "/assets/images/service-bg.jpg" flags READ mode 0666
+Feb 26 01:21:39 10.71.56.0 u105481256 close "/assets/images/vcard_justo.png" bytes read 355394 written 0
+Feb 26 01:21:39 10.71.56.0 u105481256 [10.71.56.0|get|0|355394|0|0|0|2f6173736574732f696d616765732f76636172645f6a7573746f2e706e67|]
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/service-bg.jpg" bytes read 34795 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|1|34795|0|0|0|2f6173736574732f696d616765732f736572766963652d62672e6a7067|]
+Feb 26 01:21:40 10.71.56.0 u105481256 open "/assets/images/section-divider.png" flags READ mode 0666
+Feb 26 01:21:40 10.71.56.0 u105481256 open "/assets/images/preloader.gif" flags READ mode 0666
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/section-divider.png" bytes read 1235 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|0|1235|0|0|0|2f6173736574732f696d616765732f73656374696f6e2d646976696465722e706e67|]
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/preloader.gif" bytes read 13999 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|0|13999|0|0|0|2f6173736574732f696d616765732f7072656c6f616465722e676966|]
+Feb 26 01:21:40 10.71.56.0 u105481256 open "/assets/images/photo-frame.png" flags READ mode 0666
+Feb 26 01:21:40 10.71.56.0 u105481256 open "/assets/images/myphoto.jpg" flags READ mode 0666
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/photo-frame.png" bytes read 2377 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|0|2377|0|0|0|2f6173736574732f696d616765732f70686f746f2d6672616d652e706e67|]
+Feb 26 01:21:40 10.71.56.0 u105481256 open "/assets/images/logo.png" flags READ mode 0666
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/myphoto.jpg" bytes read 3924057 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|0|3924057|0|0|0|2f6173736574732f696d616765732f6d7970686f746f2e6a7067|]
+Feb 26 01:21:40 10.71.56.0 u105481256 close "/assets/images/logo.png" bytes read 4467 written 0
+Feb 26 01:21:40 10.71.56.0 u105481256 [10.71.56.0|get|0|4467|0|0|0|2f6173736574732f696d616765732f6c6f676f2e706e67|]
+Feb 26 01:21:41 10.71.56.0 u105481256 open "/assets/images/index.html" flags READ mode 0666
+Feb 26 01:21:41 10.71.56.0 u105481256 open "/assets/images/home2.jpg" flags READ mode 0666
+Feb 26 01:21:41 10.71.56.0 u105481256 close "/assets/images/index.html" bytes read 0 written 0
+Feb 26 01:21:41 10.71.56.0 u105481256 [10.71.56.0|get|0|0|0|0|0|2f6173736574732f696d616765732f696e6465782e68746d6c|]
+Feb 26 01:21:41 10.71.56.0 u105481256 close "/assets/images/home2.jpg" bytes read 132922 written 0
+Feb 26 01:21:41 10.71.56.0 u105481256 [10.71.56.0|get|0|132922|0|0|0|2f6173736574732f696d616765732f686f6d65322e6a7067|]
+Feb 26 01:21:41 10.71.56.0 u105481256 open "/assets/images/hire-bg.jpg" flags READ mode 0666
+Feb 26 01:21:41 10.71.56.0 u105481256 open "/assets/images/home1.jpg" flags READ mode 0666
+Feb 26 01:21:41 10.71.56.0 u105481256 close "/assets/images/hire-bg.jpg" bytes read 728317 written 0
+Feb 26 01:21:41 10.71.56.0 u105481256 [10.71.56.0|get|0|728317|0|0|0|2f6173736574732f696d616765732f686972652d62672e6a7067|]
+Feb 26 01:21:41 10.71.56.0 u105481256 close "/assets/images/home1.jpg" bytes read 508213 written 0
+Feb 26 01:21:41 10.71.56.0 u105481256 [10.71.56.0|get|0|508213|0|0|0|2f6173736574732f696d616765732f686f6d65312e6a7067|]
+Feb 26 01:21:41 10.71.56.0 u105481256 open "/assets/images/counter-bg.jpg" flags READ mode 0666
+Feb 26 01:21:41 10.71.56.0 u105481256 close "/assets/images/counter-bg.jpg" bytes read 203312 written 0
+Feb 26 01:21:41 10.71.56.0 u105481256 [10.71.56.0|get|0|203312|0|0|0|2f6173736574732f696d616765732f636f756e7465722d62672e6a7067|]
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/favicon.ico" flags READ mode 0666
+Feb 26 01:21:42 10.71.56.0 u105481256 close "/assets/images/ico/favicon.ico" bytes read 1150 written 0
+Feb 26 01:21:42 10.71.56.0 u105481256 [10.71.56.0|get|0|1150|0|0|0|2f6173736574732f696d616765732f69636f2f66617669636f6e2e69636f|]
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon.png" flags READ mode 0666
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-76x76.png" flags READ mode 0666
+Feb 26 01:21:42 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon.png" bytes read 2276 written 0
+Feb 26 01:21:42 10.71.56.0 u105481256 [10.71.56.0|get|0|2276|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2e706e67|]
+Feb 26 01:21:42 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-76x76.png" bytes read 3848 written 0
+Feb 26 01:21:42 10.71.56.0 u105481256 [10.71.56.0|get|0|3848|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d37367837362e706e67|]
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-72x72.png" flags READ mode 0666
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-57x57.png" flags READ mode 0666
+Feb 26 01:21:42 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-72x72.png" bytes read 3323 written 0
+Feb 26 01:21:42 10.71.56.0 u105481256 [10.71.56.0|get|0|3323|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d37327837322e706e67|]
+Feb 26 01:21:42 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-57x57.png" bytes read 2276 written 0
+Feb 26 01:21:42 10.71.56.0 u105481256 [10.71.56.0|get|0|2276|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d35377835372e706e67|]
+Feb 26 01:21:42 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-180x180.png" flags READ mode 0666
+Feb 26 01:21:43 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-152x152.png" flags READ mode 0666
+Feb 26 01:21:43 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-180x180.png" bytes read 17996 written 0
+Feb 26 01:21:43 10.71.56.0 u105481256 [10.71.56.0|get|1|17996|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d313830783138302e706e67|]
+Feb 26 01:21:43 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-152x152.png" bytes read 13062 written 0
+Feb 26 01:21:43 10.71.56.0 u105481256 [10.71.56.0|get|0|13062|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d313532783135322e706e67|]
+Feb 26 01:21:43 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-144x144.png" flags READ mode 0666
+Feb 26 01:21:43 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-114x114.png" flags READ mode 0666
+Feb 26 01:21:43 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-144x144.png" bytes read 11212 written 0
+Feb 26 01:21:43 10.71.56.0 u105481256 [10.71.56.0|get|0|11212|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d313434783134342e706e67|]
+Feb 26 01:21:43 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-114x114.png" bytes read 7676 written 0
+Feb 26 01:21:43 10.71.56.0 u105481256 [10.71.56.0|get|0|7676|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d313134783131342e706e67|]
+Feb 26 01:21:43 10.71.56.0 u105481256 open "/assets/images/ico/apple-touch-icon-120x120.png" flags READ mode 0666
+Feb 26 01:21:43 10.71.56.0 u105481256 close "/assets/images/ico/apple-touch-icon-120x120.png" bytes read 8287 written 0
+Feb 26 01:21:43 10.71.56.0 u105481256 [10.71.56.0|get|0|8287|0|0|0|2f6173736574732f696d616765732f69636f2f6170706c652d746f7563682d69636f6e2d313230783132302e706e67|]
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/hazte-wegooer.png" flags READ mode 0666
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/wegoo.png" flags READ mode 0666
+Feb 26 01:21:44 10.71.56.0 u105481256 close "/assets/images/works/hazte-wegooer.png" bytes read 451126 written 0
+Feb 26 01:21:44 10.71.56.0 u105481256 [10.71.56.0|get|0|451126|0|0|0|2f6173736574732f696d616765732f776f726b732f68617a74652d7765676f6f65722e706e67|]
+Feb 26 01:21:44 10.71.56.0 u105481256 close "/assets/images/works/wegoo.png" bytes read 293545 written 0
+Feb 26 01:21:44 10.71.56.0 u105481256 [10.71.56.0|get|0|293545|0|0|0|2f6173736574732f696d616765732f776f726b732f7765676f6f2e706e67|]
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/tecnifugas.jpg" flags READ mode 0666
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/reparaser2.jpg" flags READ mode 0666
+Feb 26 01:21:44 10.71.56.0 u105481256 close "/assets/images/works/tecnifugas.jpg" bytes read 291562 written 0
+Feb 26 01:21:44 10.71.56.0 u105481256 [10.71.56.0|get|0|291562|0|0|0|2f6173736574732f696d616765732f776f726b732f7465636e6966756761732e6a7067|]
+Feb 26 01:21:44 10.71.56.0 u105481256 close "/assets/images/works/reparaser2.jpg" bytes read 208214 written 0
+Feb 26 01:21:44 10.71.56.0 u105481256 [10.71.56.0|get|0|208214|0|0|0|2f6173736574732f696d616765732f776f726b732f726570617261736572322e6a7067|]
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/reparaser.jpg" flags READ mode 0666
+Feb 26 01:21:44 10.71.56.0 u105481256 open "/assets/images/works/opendata.jpg" flags READ mode 0666
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/reparaser.jpg" bytes read 282962 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|1|282962|0|0|0|2f6173736574732f696d616765732f776f726b732f7265706172617365722e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/opendata.jpg" bytes read 237142 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|1|237142|0|0|0|2f6173736574732f696d616765732f776f726b732f6f70656e646174612e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 open "/assets/images/works/juegorpg.jpg" flags READ mode 0666
+Feb 26 01:21:45 10.71.56.0 u105481256 open "/assets/images/works/juegoletras.jpg" flags READ mode 0666
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/juegorpg.jpg" bytes read 593063 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|0|593063|0|0|0|2f6173736574732f696d616765732f776f726b732f6a7565676f7270672e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/juegoletras.jpg" bytes read 51800 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|0|51800|0|0|0|2f6173736574732f696d616765732f776f726b732f6a7565676f6c65747261732e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 open "/assets/images/works/juego2dunity.jpg" flags READ mode 0666
+Feb 26 01:21:45 10.71.56.0 u105481256 open "/assets/images/works/hotelazo.jpg" flags READ mode 0666
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/juego2dunity.jpg" bytes read 127930 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|0|127930|0|0|0|2f6173736574732f696d616765732f776f726b732f6a7565676f3264756e6974792e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 close "/assets/images/works/hotelazo.jpg" bytes read 282932 written 0
+Feb 26 01:21:45 10.71.56.0 u105481256 [10.71.56.0|get|0|282932|0|0|0|2f6173736574732f696d616765732f776f726b732f686f74656c617a6f2e6a7067|]
+Feb 26 01:21:45 10.71.56.0 u105481256 open "/assets/images/works/filmoteca.jpg" flags READ mode 0666
+Feb 26 01:21:46 10.71.56.0 u105481256 close "/assets/images/works/filmoteca.jpg" bytes read 331269 written 0
+Feb 26 01:21:46 10.71.56.0 u105481256 [10.71.56.0|get|1|331269|0|0|0|2f6173736574732f696d616765732f776f726b732f66696c6d6f746563612e6a7067|]
+Feb 26 01:21:46 10.71.56.0 u105481256 open "/assets/js/wow.min.js" flags READ mode 0666
+Feb 26 01:21:46 10.71.56.0 u105481256 close "/assets/js/wow.min.js" bytes read 7154 written 0
+Feb 26 01:21:46 10.71.56.0 u105481256 [10.71.56.0|get|0|7154|0|0|0|2f6173736574732f6a732f776f772e6d696e2e6a73|]
+Feb 26 01:21:46 10.71.56.0 u105481256 open "/assets/js/scripts.js" flags READ mode 0666
+Feb 26 01:21:46 10.71.56.0 u105481256 open "/assets/js/jquery.sticky.js" flags READ mode 0666
+Feb 26 01:21:46 10.71.56.0 u105481256 close "/assets/js/scripts.js" bytes read 10878 written 0
+Feb 26 01:21:46 10.71.56.0 u105481256 [10.71.56.0|get|0|10878|0|0|0|2f6173736574732f6a732f736372697074732e6a73|]
+Feb 26 01:21:46 10.71.56.0 u105481256 close "/assets/js/jquery.sticky.js" bytes read 5652 written 0
+Feb 26 01:21:46 10.71.56.0 u105481256 [10.71.56.0|get|0|5652|0|0|0|2f6173736574732f6a732f6a71756572792e737469636b792e6a73|]
+Feb 26 01:21:46 10.71.56.0 u105481256 open "/assets/js/jquery.stellar.min.js" flags READ mode 0666
+Feb 26 01:21:46 10.71.56.0 u105481256 open "/assets/js/jquery.shuffle.min.js" flags READ mode 0666
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.stellar.min.js" bytes read 12597 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|1|12597|0|0|0|2f6173736574732f6a732f6a71756572792e7374656c6c61722e6d696e2e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.shuffle.min.js" bytes read 14194 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|1|14194|0|0|0|2f6173736574732f6a732f6a71756572792e73687566666c652e6d696e2e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 open "/assets/js/jquery.magnific-popup.min.js" flags READ mode 0666
+Feb 26 01:21:47 10.71.56.0 u105481256 open "/assets/js/jquery.js" flags READ mode 0666
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.magnific-popup.min.js" bytes read 21143 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|0|21143|0|0|0|2f6173736574732f6a732f6a71756572792e6d61676e696669632d706f7075702e6d696e2e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.js" bytes read 95785 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|0|95785|0|0|0|2f6173736574732f6a732f6a71756572792e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 open "/assets/js/jquery.inview.min.js" flags READ mode 0666
+Feb 26 01:21:47 10.71.56.0 u105481256 open "/assets/js/jquery.fitvids.js" flags READ mode 0666
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.inview.min.js" bytes read 1264 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|0|1264|0|0|0|2f6173736574732f6a732f6a71756572792e696e766965772e6d696e2e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 close "/assets/js/jquery.fitvids.js" bytes read 3240 written 0
+Feb 26 01:21:47 10.71.56.0 u105481256 [10.71.56.0|get|0|3240|0|0|0|2f6173736574732f6a732f6a71756572792e666974766964732e6a73|]
+Feb 26 01:21:47 10.71.56.0 u105481256 open "/assets/js/jquery.easypiechart.js" flags READ mode 0666
+Feb 26 01:21:48 10.71.56.0 u105481256 open "/assets/js/jquery.countTo.js" flags READ mode 0666
+Feb 26 01:21:48 10.71.56.0 u105481256 close "/assets/js/jquery.easypiechart.js" bytes read 9111 written 0
+Feb 26 01:21:48 10.71.56.0 u105481256 [10.71.56.0|get|1|9111|0|0|0|2f6173736574732f6a732f6a71756572792e6561737970696563686172742e6a73|]
+Feb 26 01:21:48 10.71.56.0 u105481256 close "/assets/js/jquery.countTo.js" bytes read 2501 written 0
+Feb 26 01:21:48 10.71.56.0 u105481256 [10.71.56.0|get|0|2501|0|0|0|2f6173736574732f6a732f6a71756572792e636f756e74546f2e6a73|]
+Feb 26 01:21:48 10.71.56.0 u105481256 open "/assets/bootstrap/css/bootstrap.min.css" flags READ mode 0666
+Feb 26 01:21:48 10.71.56.0 u105481256 open "/assets/bootstrap/css/bootstrap.css" flags READ mode 0666
+Feb 26 01:21:48 10.71.56.0 u105481256 close "/assets/bootstrap/css/bootstrap.min.css" bytes read 117150 written 0
+Feb 26 01:21:48 10.71.56.0 u105481256 [10.71.56.0|get|0|117150|0|0|0|2f6173736574732f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e637373|]
+Feb 26 01:21:48 10.71.56.0 u105481256 close "/assets/bootstrap/css/bootstrap.css" bytes read 141414 written 0
+Feb 26 01:21:48 10.71.56.0 u105481256 [10.71.56.0|get|0|141414|0|0|0|2f6173736574732f626f6f7473747261702f6373732f626f6f7473747261702e637373|]
+Feb 26 01:21:48 10.71.56.0 u105481256 open "/assets/bootstrap/css/bootstrap-theme.css" flags READ mode 0666
+Feb 26 01:21:48 10.71.56.0 u105481256 open "/assets/bootstrap/css/bootstrap-theme.min.css" flags READ mode 0666
+Feb 26 01:21:49 10.71.56.0 u105481256 close "/assets/bootstrap/css/bootstrap-theme.css" bytes read 22608 written 0
+Feb 26 01:21:49 10.71.56.0 u105481256 [10.71.56.0|get|1|22608|0|0|0|2f6173736574732f626f6f7473747261702f6373732f626f6f7473747261702d7468656d652e637373|]
+Feb 26 01:21:49 10.71.56.0 u105481256 close "/assets/bootstrap/css/bootstrap-theme.min.css" bytes read 19963 written 0
+Feb 26 01:21:49 10.71.56.0 u105481256 [10.71.56.0|get|1|19963|0|0|0|2f6173736574732f626f6f7473747261702f6373732f626f6f7473747261702d7468656d652e6d696e2e637373|]
+Feb 26 01:21:49 10.71.56.0 u105481256 open "/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" flags READ mode 0666
+Feb 26 01:21:49 10.71.56.0 u105481256 open "/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" flags READ mode 0666
+Feb 26 01:21:49 10.71.56.0 u105481256 close "/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" bytes read 18028 written 0
+Feb 26 01:21:49 10.71.56.0 u105481256 [10.71.56.0|get|0|18028|0|0|0|2f6173736574732f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f666632|]
+Feb 26 01:21:49 10.71.56.0 u105481256 close "/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" bytes read 23424 written 0
+Feb 26 01:21:49 10.71.56.0 u105481256 [10.71.56.0|get|0|23424|0|0|0|2f6173736574732f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e776f6666|]
+Feb 26 01:21:49 10.71.56.0 u105481256 open "/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" flags READ mode 0666
+Feb 26 01:21:49 10.71.56.0 u105481256 open "/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" flags READ mode 0666
+Feb 26 01:21:49 10.71.56.0 u105481256 close "/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" bytes read 45404 written 0
+Feb 26 01:21:49 10.71.56.0 u105481256 [10.71.56.0|get|0|45404|0|0|0|2f6173736574732f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e747466|]
+Feb 26 01:21:50 10.71.56.0 u105481256 close "/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" bytes read 108738 written 0
+Feb 26 01:21:50 10.71.56.0 u105481256 [10.71.56.0|get|1|108738|0|0|0|2f6173736574732f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e737667|]
+Feb 26 01:21:50 10.71.56.0 u105481256 open "/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" flags READ mode 0666
+Feb 26 01:21:50 10.71.56.0 u105481256 close "/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" bytes read 20127 written 0
+Feb 26 01:21:50 10.71.56.0 u105481256 [10.71.56.0|get|0|20127|0|0|0|2f6173736574732f626f6f7473747261702f666f6e74732f676c79706869636f6e732d68616c666c696e67732d726567756c61722e656f74|]
+Feb 26 01:21:50 10.71.56.0 u105481256 open "/assets/bootstrap/js/bootstrap.js" flags READ mode 0666
+Feb 26 01:21:50 10.71.56.0 u105481256 close "/assets/bootstrap/js/bootstrap.js" bytes read 66732 written 0
+Feb 26 01:21:50 10.71.56.0 u105481256 [10.71.56.0|get|0|66732|0|0|0|2f6173736574732f626f6f7473747261702f6a732f626f6f7473747261702e6a73|]
+Feb 26 01:21:50 10.71.56.0 u105481256 open "/assets/bootstrap/js/bootstrap.min.js" flags READ mode 0666
+Feb 26 01:21:50 10.71.56.0 u105481256 close "/assets/bootstrap/js/bootstrap.min.js" bytes read 35452 written 0
+Feb 26 01:21:50 10.71.56.0 u105481256 [10.71.56.0|get|0|35452|0|0|0|2f6173736574732f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a73|]
+Feb 26 01:21:50 10.71.56.0 u105481256 open "/img/play_store.png" flags READ mode 0666
+Feb 26 01:21:51 10.71.56.0 u105481256 close "/img/play_store.png" bytes read 17434 written 0
+Feb 26 01:21:51 10.71.56.0 u105481256 [10.71.56.0|get|1|17434|0|0|0|2f696d672f706c61795f73746f72652e706e67|]
+Feb 26 01:21:51 10.71.56.0 u105481256 open "/img/app_store.png" flags READ mode 0666
+Feb 26 01:21:51 10.71.56.0 u105481256 open "/img/garantia.png" flags READ mode 0666
+Feb 26 01:21:51 10.71.56.0 u105481256 close "/img/app_store.png" bytes read 32004 written 0
+Feb 26 01:21:51 10.71.56.0 u105481256 [10.71.56.0|get|0|32004|0|0|0|2f696d672f6170705f73746f72652e706e67|]
+Feb 26 01:21:51 10.71.56.0 u105481256 close "/img/garantia.png" bytes read 240207 written 0
+Feb 26 01:21:51 10.71.56.0 u105481256 [10.71.56.0|get|0|240207|0|0|0|2f696d672f676172616e7469612e706e67|]
+Feb 26 01:21:51 10.71.56.0 u105481256 open "/img/mvl.png" flags READ mode 0666
+Feb 26 01:21:51 10.71.56.0 u105481256 open "/img/soluciones.png" flags READ mode 0666
+Feb 26 01:21:51 10.71.56.0 u105481256 close "/img/mvl.png" bytes read 323752 written 0
+Feb 26 01:21:51 10.71.56.0 u105481256 [10.71.56.0|get|0|323752|0|0|0|2f696d672f6d766c2e706e67|]
+Feb 26 01:21:51 10.71.56.0 u105481256 close "/img/soluciones.png" bytes read 1387 written 0
+Feb 26 01:21:51 10.71.56.0 u105481256 [10.71.56.0|get|0|1387|0|0|0|2f696d672f736f6c7563696f6e65732e706e67|]
+Feb 26 01:21:52 10.71.56.0 u105481256 open "/logs/sftp.log" flags READ mode 0666
