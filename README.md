@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Bienvenido a mi GitHub 👋
 
-- Mi nombre es Justo J. Rodríguez García (aka th3king / th3Wh1teK1nG), me dedico a la ciberseguridad, el hacking ético, y seguridad ofensiva también desarrollo aplicaciones, actualmente estoy preparándome los certificados CEH, eJPT y OSCP...
+- Soy Justo J. (aka th3king / th3Wh1teK1nG), me dedico al desarrollo web y a la ciberseguridad, el hacking ético, y seguridad ofensiva, actualmente estoy preparándome los certificados CEH, eJPT y OSCP...
 
 ## Puedes encontrarme en:
 
