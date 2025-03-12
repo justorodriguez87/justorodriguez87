@@ -55,7 +55,7 @@ I like to create useful applications with accessible, scalable and user-centric 
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 
-## DevIos & CI/CD
+## DevOps & CI/CD
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 
