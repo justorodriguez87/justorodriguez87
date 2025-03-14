@@ -25,6 +25,7 @@ I like to create useful applications with accessible, scalable and user-centric 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%23FF5D01.svg?&style=for-the-badge&logo=astro&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
