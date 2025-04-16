@@ -31,7 +31,9 @@ I like to create useful applications with accessible, scalable and user-centric 
 ### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?&style=for-the-badge&logo=node.js&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
