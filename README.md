@@ -66,7 +66,9 @@ I like to create useful applications with accessible, scalable and user-centric 
 
 ## Testing
 
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?&style=for-the-badge&logo=junit5&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/tested%20with-phpunit-brightgreen.svg)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
 ## Description
 
